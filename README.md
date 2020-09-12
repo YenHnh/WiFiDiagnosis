@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 // head title
+
 public class WiFiDiagnosis
 {
 
